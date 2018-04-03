@@ -1,5 +1,3 @@
-var musicians=[];
-var instruments=[];
 const facts = [
   "He was the last Beatle to learn to drive",
   "He was never a vegetarian",
