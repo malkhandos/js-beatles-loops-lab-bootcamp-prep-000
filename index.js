@@ -9,6 +9,6 @@ const facts = [
 
 function theBeatlesPlay(musicians, instruments){
   var new_array = [];
-}for (musicians[0]; instruments[0]) {
+}for (var new_array; musicians[0]; instruments[0]) {
   new_array.push(`${musicians} plays ${instruments}`)
 }console.log(new_array)
