@@ -8,5 +8,5 @@ const facts = [
 ];
 
 function theBeatlesPlay(musicians, instruments){
-  var new_array = Object.assign({}, musicians, instruments)
-}
+  var new_array = []
+}for (musicians; )
