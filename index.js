@@ -1,5 +1,5 @@
-musicians=['Paul McCartney', 'John Lennon', 'George Harrison', 'Ringo Starr']
-instruments=['Bass Guitar', 'Guitar', 'Lead Guitar', 'Drums']
+var musicians=['Paul McCartney', 'John Lennon', 'George Harrison', 'Ringo Starr']
+var instruments=['Bass Guitar', 'Guitar', 'Lead Guitar', 'Drums']
 const facts = [
   "He was the last Beatle to learn to drive",
   "He was never a vegetarian",
@@ -9,6 +9,6 @@ const facts = [
 
 function theBeatlesPlay(musicians, instruments){
   var new_array = [];
-}for (var new_array; musicians[0]; instruments[0]) {
+}for (new_array; musicians; instruments) {
   new_array.push(`${musicians} plays ${instruments}`)
 }console.log(new_array)
