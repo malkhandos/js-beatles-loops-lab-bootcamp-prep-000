@@ -1,3 +1,5 @@
+musicians=['Paul McCartney', 'John Lennon', 'George Harrison', 'Ringo Starr']
+instruments=['Bass Guitar', 'Guitar', 'Lead Guitar', 'Drums']
 const facts = [
   "He was the last Beatle to learn to drive",
   "He was never a vegetarian",
