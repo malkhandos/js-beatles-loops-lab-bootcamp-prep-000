@@ -23,3 +23,9 @@ function johnLennonFacts(facts){
   }console.log(lennon)
   return lennon
 }
+
+function iLoveTheBeatles(n){
+  var beatles = [];
+  do {beatles.push('I love the Beatles!')}
+  while 
+}
