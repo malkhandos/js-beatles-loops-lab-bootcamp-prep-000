@@ -10,5 +10,5 @@ const facts = [
 function theBeatlesPlay(musicians, instruments){
   var new_array = []
 }for (musicians; musicians[0]; instruments[0]){
-  new_array.push('John Lennon plays guitar')
-}
+  new_array.push(`${musicians} plays ${instruments}`)
+}console.log(new_array)
