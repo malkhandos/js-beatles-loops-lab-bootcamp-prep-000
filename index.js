@@ -1,9 +1,9 @@
-var musicians=['Paul McCartney', 'John Lennon', 'George Harrison', 'Ringo Starr'];
-var instruments=['Bass Guitar', 'Guitar', 'Lead Guitar', 'Drums'];
+var musicians=['John Lennon','Paul McCartney', 'George Harrison', 'Ringo Starr'];
+var instruments=['Guitar', 'Bass Guitar', 'Lead Guitar', 'Drums'];
 var new_array=[];
 
 function theBeatlesPlay(musicians, instruments){
-}for (var i=0; i<musicians.length; i++) {
+}for (var i=0; i<musicians.length && i<instruments.length; i++) {
   new_array.push(`${musicians[i]} plays ${instruments[i]}`)
 }console.log(new_array)
 
